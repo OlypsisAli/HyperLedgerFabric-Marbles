@@ -1,5 +1,4 @@
-*Read this in other languages: [中国](README-cn.md).*
-# Marbles Demo
+The following is a hyperledger fabric portfolio project made in collaboration with the exsisting fabric template. 
 
 ## About Marbles
 - The underlying network for this application is the [Hyperledger Fabric](https://github.com/hyperledger/fabric/tree/master/docs), a Linux Foundation project.  You may want to review these instructions to understand a bit about the Hyperledger Fabric.
